@@ -2,9 +2,9 @@
   "spider": "./jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
   "lives": [
     {
-      "name": "初秋语•综合",
+      "name": "综合",
       "type": 0,
-      "url": "./list.txt",
+      "url": "./live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
